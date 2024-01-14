@@ -4,6 +4,21 @@
     <h3 align="center">Un apasionado programador de 21 años proveniente de la hermosa tierra de los Incas, Peru. Mi deseo de aprender y destacar en el campo me impulsa a sumergirme en nuevos desafíos y explorar tecnologías innovadoras! <br><br>¡Construyamos el futuro juntos! 🚀</h3>     
 </div>
 
+---
+
+### 🧑‍🏫 About me:
+
+- ♨️ Estudiante de Ingenieria de Sistemas de la UPC
+
+- 💬 Pregunta acerca de **Python, JavaScript, C++, C#**
+
+- ✉️ Como contactarme **ricmostsal@gmail.com**
+
+- 🌱 Actualmente estudiando **React.js, Blockchain, Laravel y Nextjs**
+
+- 🏀 Amante del Basketball y la Natación
+
+- 🕹️ Geek tecnologico y de los videojuegos
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ricardo.mostacero.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/orms_21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ricardomostacero) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/RicardoMostace9) 
